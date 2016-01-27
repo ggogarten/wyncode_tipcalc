@@ -56,7 +56,7 @@ def tip_calculator
 	|	Party size  #{size}
 	| Split total #{total_split}
 	|
-	|        Have a great day!
+	|        Have a AWESOME day!
 	|
 	|————————————————————————————————————
 	"""
